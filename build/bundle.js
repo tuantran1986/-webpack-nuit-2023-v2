@@ -1,0 +1,1 @@
+(()=>{var o={52:o=>{o.exports=(o,r)=>o+r}},r={};function t(e){var n=r[e];if(void 0!==n)return n.exports;var s=r[e]={exports:{}};return o[e](s,s.exports,t),s.exports}(()=>{const o=t(52)(6,8);console.log("total: ",o),document.write(o)})()})();
