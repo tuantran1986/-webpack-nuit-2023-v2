@@ -1,7 +1,7 @@
-// import sum from './math';
-const sum = require('./math');
+import sum from './math';
+// const sum = require('./math');
 
-const total = sum(6, 8);
+const total = sum(16, 18);
 
 console.log('total: ', total);
 document.write(total);
